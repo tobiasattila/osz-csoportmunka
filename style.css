@@ -22,9 +22,14 @@ h1{
 p{
     margin-left: 20px;
     margin-right: 40px;
+		width: 500px
     
 }
 hr{
     color:#000;
     border: 2px solid black;
+}
+
+.img{
+	width:300px;
 }
